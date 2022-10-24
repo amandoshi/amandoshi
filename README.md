@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amandoshi
+- 👀 I’m interested in robotics and automobiles
+- 🌱 I’m currently learning firmware and communications programming in C
+- 📫 How to reach me: aman.doshi@berkeley.edu
